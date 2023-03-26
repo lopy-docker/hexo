@@ -1,4 +1,4 @@
-FROM node:10-stretch
+FROM node:latest
 
 RUN npm install -g hexo-cli
 
